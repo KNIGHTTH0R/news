@@ -1,0 +1,8 @@
+/***
+* Custom Style
+***/
+.container { position: relative; }
+.site { max-width: 100%; position: relative; }
+.site-header { max-width: 100%; position: relative; }
+.site:before { display: none; }
+#secondary { background-color: #ccc; }
