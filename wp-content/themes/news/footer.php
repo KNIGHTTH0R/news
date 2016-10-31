@@ -24,5 +24,7 @@
 	</div><!-- #page -->
 
 	<?php wp_footer(); ?>
+	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/externalplugins/js/bootstrap.js"></script>
+	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/script.js"></script>
 </body>
 </html>
